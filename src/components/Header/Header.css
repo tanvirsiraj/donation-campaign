@@ -1,0 +1,9 @@
+.navbar a.active {
+  background: none !important;
+  color: #ff444a !important;
+  text-decoration: underline;
+}
+.navbar li:hover a {
+  background: none !important;
+  color: #ff444a !important;
+}
