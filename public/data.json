@@ -9,7 +9,8 @@
     "text_color": "#0052FF",
     "button_bg": "#0052FF",
     "description": "Clean water for children is essential for their health and well-being. Access to safe drinking water prevents waterborne diseases, ensuring a brighter future. Contaminated water sources can lead to severe illnesses, stunted growth, and even mortality. It's crucial to prioritize clean water infrastructure, sanitation facilities, and hygiene education to protect the world's most vulnerable population—our children. Clean water empowers them to thrive, learn, and grow, securing a healthier tomorrow.",
-    "price": "$290.00"
+    "price": "$290.00",
+    "rectangleImg": "https://i.ibb.co/5M3SJ3D/Rectangle-4284.png"
   },
   {
     "id": 2,
@@ -21,7 +22,8 @@
     "text_color": "#FF444A",
     "button_bg": "#FF444A",
     "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
-    "price": "$290.00"
+    "price": "$290.00",
+    "rectangleImg": "https://i.ibb.co/rdRqZ2F/Rectangle-4287-1.png"
   },
   {
     "id": 3,
@@ -33,7 +35,8 @@
     "text_color": "#79C23F",
     "button_bg": "#79C23F",
     "description": "Elevate your casual style with this comfortable men's shirt.",
-    "price": "$39.99"
+    "price": "$39.99",
+    "rectangleImg": "https://i.ibb.co/Mks7bn0/Rectangle-4287.png"
   },
   {
     "id": 4,
@@ -45,7 +48,8 @@
     "text_color": "#F87147",
     "button_bg": "#F87147",
     "description": "Nourish your body with this bundle of organic superfoods.",
-    "price": "$49.99"
+    "price": "$49.99",
+    "rectangleImg": "https://i.ibb.co/XpM05V5/Rectangle-4287-2.png"
   },
   {
     "id": 5,
@@ -57,7 +61,8 @@
     "text_color": "#F87147",
     "button_bg": "#F87147",
     "description": "Indulge in the rich flavors of these gourmet coffee beans.",
-    "price": "$14.99"
+    "price": "$14.99",
+    "rectangleImg": "https://i.ibb.co/XpM05V5/Rectangle-4287-2.png"
   },
   {
     "id": 6,
@@ -69,7 +74,8 @@
     "text_color": "#79C23F",
     "button_bg": "#79C23F",
     "description": "Step out in style with this elegant women's fashion dress.",
-    "price": "$69.99"
+    "price": "$69.99",
+    "rectangleImg": "https://i.ibb.co/Mks7bn0/Rectangle-4287.png"
   },
   {
     "id": 7,
@@ -81,7 +87,8 @@
     "text_color": "#FF444A",
     "button_bg": "#FF444A",
     "description": "Master a new language with the help of this innovative language learning app.",
-    "price": "$29.99"
+    "price": "$29.99",
+    "rectangleImg": "https://i.ibb.co/rdRqZ2F/Rectangle-4287-1.png"
   },
   {
     "id": 8,
@@ -93,7 +100,8 @@
     "text_color": "#0052FF",
     "button_bg": "#0052FF",
     "description": "Stay on top of your fitness goals with this advanced fitness tracker.",
-    "price": "$79.99"
+    "price": "$79.99",
+    "rectangleImg": "https://i.ibb.co/5M3SJ3D/Rectangle-4284.png"
   },
 
   {
@@ -106,7 +114,8 @@
     "text_color": "#0052FF",
     "button_bg": "#0052FF",
     "description": "Experience comfort and stability during your yoga sessions with this mat.",
-    "price": "$29.99"
+    "price": "$29.99",
+    "rectangleImg": "https://i.ibb.co/5M3SJ3D/Rectangle-4284.png"
   },
   {
     "id": 10,
@@ -118,7 +127,8 @@
     "text_color": "#FF444A",
     "button_bg": "#FF444A",
     "description": "Make learning fun with this engaging educational board game for kids.",
-    "price": "$34.99"
+    "price": "$34.99",
+    "rectangleImg": "https://i.ibb.co/rdRqZ2F/Rectangle-4287-1.png"
   },
 
   {
@@ -131,7 +141,8 @@
     "text_color": "#79C23F",
     "button_bg": "#79C23F",
     "description": "Keep your kids active and stylish with these comfortable sneakers.",
-    "price": "$24.99"
+    "price": "$24.99",
+    "rectangleImg": "https://i.ibb.co/Mks7bn0/Rectangle-4287.png"
   },
 
   {
@@ -144,6 +155,7 @@
     "text_color": "#F87147",
     "button_bg": "#F87147",
     "description": "Enjoy guilt-free snacking with this assortment of healthy snacks.",
-    "price": "$19.99"
+    "price": "$19.99",
+    "rectangleImg": "https://i.ibb.co/XpM05V5/Rectangle-4287-2.png"
   }
 ]
