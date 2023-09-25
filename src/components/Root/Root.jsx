@@ -12,7 +12,7 @@ const Root = () => {
       .then((data) => setCardData(data));
   }, []);
   return (
-    <div>
+    <div className="lg:max-w-7xl mx-auto">
       <dataContext.Provider value={{ cardData, setCardData }}>
         <Header></Header>
         <Outlet></Outlet>
