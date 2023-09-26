@@ -23,7 +23,7 @@ const Donation = () => {
     setData(donatedCard);
   }, [cardData]);
   return (
-    <div className="mt-10 pb-80">
+    <div className="mt-10 pb-64 ">
       <div className="grid grid-cols-2 gap-4">
         {data.map((d) => (
           <DonationCard key={d.id} donatedCardData={d}></DonationCard>

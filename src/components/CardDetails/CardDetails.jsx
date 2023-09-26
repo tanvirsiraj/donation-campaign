@@ -1,4 +1,4 @@
-import { useContext } from "react";
+import { useContext, useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import { dataContext } from "../Root/Root";
 import "./CardDetails.css";
@@ -6,10 +6,17 @@ import { savedToLocalStorage } from "../../utility/localStorage";
 const CardDetails = () => {
   const { id } = useParams();
   const { cardData } = useContext(dataContext);
+  const [selectedCard, setSelectedCard] = useState([]);
   //   console.log(parseInt(id), cardData);
-  const selectedCard = cardData.find(
-    (singleData) => singleData.id === parseInt(id)
-  );
+
+  useEffect(() => {
+    if (cardData.length > 0) {
+      const selectedCardData = cardData.find(
+        (singleData) => singleData.id === parseInt(id)
+      );
+      setSelectedCard(selectedCardData);
+    }
+  }, []);
 
   //   console.log(selectedCard);
   const handleDonate = (id) => {
