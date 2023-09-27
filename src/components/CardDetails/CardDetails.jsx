@@ -33,9 +33,9 @@ const CardDetails = () => {
   };
   return (
     <div className="lg:max-w-7xl mx-auto mt-10 pb-20">
-      <div className="relative">
+      <div className="relative mx-2 lg:mx-0">
         <img
-          className=" h-[700px] w-full rounded-b-2xl"
+          className="h-[400px] lg:h-[700px] w-full rounded-2xl"
           src={selectedCard.picture}
         />
         <button
@@ -47,10 +47,12 @@ const CardDetails = () => {
         </button>
         <div className="overlay"></div>
       </div>
-      <h2 className="text-4xl font-bold my-12 mb-4 text-black">
+      <h2 className=" text-xl md:text-4xl font-bold my-12 mb-4 text-black mx-2 lg:mx-0">
         {selectedCard.title}
       </h2>
-      <p className="text-base text-black">{selectedCard.description}</p>
+      <p className="text-sm md:text-base text-black mx-2 lg:mx-0">
+        {selectedCard.description}
+      </p>
     </div>
   );
 };

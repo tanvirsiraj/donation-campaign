@@ -14,7 +14,11 @@ const Card = ({ singleCardData }) => {
       onClick={() => handleCard(id)}
       className="card  rounded-lg cursor-pointer m-2 lg:m-0"
     >
-      <img className="w-full" src={picture} alt={title} />
+      <img
+        className="w-full h-[194px] rounded-t-lg"
+        src={picture}
+        alt={title}
+      />
 
       <div style={{ background: card_bg }} className="p-4 rounded-b-lg">
         <h2

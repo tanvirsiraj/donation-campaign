@@ -4,7 +4,7 @@ const DonationCard = ({ donatedCardData }) => {
   const {
     id,
     title,
-    rectangleImg,
+    picture,
     card_bg,
     category,
     category_bg,
@@ -13,11 +13,18 @@ const DonationCard = ({ donatedCardData }) => {
     price,
   } = donatedCardData;
   return (
-    <div className="card card-side" style={{ background: card_bg }}>
+    <div
+      className="card card-side mx-2 lg:mx-0"
+      style={{ background: card_bg }}
+    >
       <figure>
-        <img src={rectangleImg} alt={title} />
+        <img
+          className="w-[150px] h-[150px] lg:w-[220px] lg:h-[200px]"
+          src={picture}
+          alt={title}
+        />
       </figure>
-      <div className="p-6 space-y-2">
+      <div className="p-3 md:p-4 space-y-1 md:space-y-2">
         <h2
           style={{
             color: text_color,
@@ -28,16 +35,22 @@ const DonationCard = ({ donatedCardData }) => {
         >
           {category}
         </h2>
-        <p style={{ color: text_color }} className="font-semibold text-lg">
+        <p
+          style={{ color: text_color }}
+          className="lg:font-semibold text-sm lg:text-lg"
+        >
           {title}
         </p>
-        <p className="text-md font-semibold" style={{ color: text_color }}>
+        <p
+          className="text-base lg:text-md lg:font-semibold"
+          style={{ color: text_color }}
+        >
           {price}
         </p>
         <div className="card-actions ">
           <Link
             to={`/donationDetails/${id}`}
-            className="px-6 py-3 rounded-md text-white text-xl"
+            className="px-2 py-1 lg:px-6 lg:py-3 rounded-md text-white text-xs  lg:text-xl"
             style={{ background: button_bg }}
           >
             View Details

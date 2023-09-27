@@ -9,12 +9,11 @@
     "text_color": "#0052FF",
     "button_bg": "#0052FF",
     "description": "Clean water for children is essential for their health and well-being. Access to safe drinking water prevents waterborne diseases, ensuring a brighter future. Contaminated water sources can lead to severe illnesses, stunted growth, and even mortality. It's crucial to prioritize clean water infrastructure, sanitation facilities, and hygiene education to protect the world's most vulnerable population—our children. Clean water empowers them to thrive, learn, and grow, securing a healthier tomorrow.",
-    "price": "$290.00",
-    "rectangleImg": "https://i.ibb.co/5M3SJ3D/Rectangle-4284.png"
+    "price": "$290.00"
   },
   {
     "id": 2,
-    "picture": "https://i.ibb.co/vmr4Vrm/Education.png",
+    "picture": "https://i.ibb.co/4RVDF5H/ben-white-83tk-HLPgg2-Q-unsplash.jpg",
     "title": "Good education",
     "category": "Education",
     "category_bg": "#FF444A33",
@@ -22,140 +21,129 @@
     "text_color": "#FF444A",
     "button_bg": "#FF444A",
     "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
-    "price": "$290.00",
-    "rectangleImg": "https://i.ibb.co/rdRqZ2F/Rectangle-4287-1.png"
+    "price": "$290.00"
   },
   {
     "id": 3,
-    "picture": "https://i.ibb.co/Q8PYQdR/Clothing.png",
+    "picture": "https://i.ibb.co/Cw7c4Rv/group-volunteers-checking-clothes.jpg",
     "title": "Used Clothing Drive",
     "category": "Clothing",
     "category_bg": "#79C23F33",
     "card_bg": "#79C23F26",
     "text_color": "#79C23F",
     "button_bg": "#79C23F",
-    "description": "Elevate your casual style with this comfortable men's shirt.",
-    "price": "$39.99",
-    "rectangleImg": "https://i.ibb.co/Mks7bn0/Rectangle-4287.png"
+    "description": "A Used Clothing Drive donation is a charitable initiative that encourages individuals to donate gently-worn clothing items they no longer need. These items are collected and distributed to those in need, promoting sustainability by recycling clothing and providing warmth and dignity to less fortunate individuals. Such drives are a powerful way to make a positive impact on both the environment and the lives of those facing economic hardships.",
+    "price": "$39.99"
   },
   {
     "id": 4,
-    "picture": "https://i.ibb.co/ZzqsQFq/Food.png",
+    "picture": "https://i.ibb.co/C9rbWs5/close-up-people-holding-apples-bag.jpg",
     "title": "Better Food for Everyone",
     "category": "Food",
     "category_bg": "#F8714733",
     "card_bg": "#F8714726",
     "text_color": "#F87147",
     "button_bg": "#F87147",
-    "description": "Nourish your body with this bundle of organic superfoods.",
-    "price": "$49.99",
-    "rectangleImg": "https://i.ibb.co/XpM05V5/Rectangle-4287-2.png"
+    "description": "'Better Food for Everyone' is a donation campaign dedicated to improving access to nutritious meals for individuals and communities in need. Donations support food banks, programs, and initiatives that strive to eliminate hunger and promote healthy eating. By contributing to this cause, you are ensuring that everyone has access to nourishing food, fostering better health outcomes and a brighter future for all. Your generosity can make a substantial difference in the fight against food insecurity.",
+    "price": "$49.99"
   },
   {
     "id": 5,
-    "picture": "https://i.ibb.co/ZzqsQFq/Food.png",
+    "picture": "https://i.ibb.co/k6V2T9M/top-view-hands-holding-coffee-grains.jpg",
     "title": "Gourmet Coffee Beans",
     "category": "Food",
     "category_bg": "#F8714733",
     "card_bg": "#F8714726",
     "text_color": "#F87147",
     "button_bg": "#F87147",
-    "description": "Indulge in the rich flavors of these gourmet coffee beans.",
-    "price": "$14.99",
-    "rectangleImg": "https://i.ibb.co/XpM05V5/Rectangle-4287-2.png"
+    "description": "Donating gourmet coffee beans is a delicious and thoughtful way to support a cause. These premium beans offer a rich, aromatic coffee experience and are often gifted to raise funds for charities or nonprofit organizations. By purchasing and donating gourmet coffee beans, you contribute to charitable efforts while delighting coffee enthusiasts with a taste of luxury. It's a win-win way to make a positive impact.",
+    "price": "$14.99"
   },
   {
     "id": 6,
-    "picture": "https://i.ibb.co/Q8PYQdR/Clothing.png",
+    "picture": "https://i.ibb.co/PNgd5LJ/female-volunteer-holding-clothes-donation-box.jpg",
     "title": "Women's Fashion Dress",
     "category": "Clothing",
     "category_bg": "#79C23F33",
     "card_bg": "#79C23F26",
     "text_color": "#79C23F",
     "button_bg": "#79C23F",
-    "description": "Step out in style with this elegant women's fashion dress.",
-    "price": "$69.99",
-    "rectangleImg": "https://i.ibb.co/Mks7bn0/Rectangle-4287.png"
+    "description": "Donating women's fashion dresses is a generous act that can empower and uplift others. By giving stylish dresses, you support individuals in need and promote confidence and self-expression. These contributions are often part of clothing drives or charities aiming to assist women facing challenging circumstances. Your donation of women's fashion dresses can make a meaningful difference in someone's life by providing them with both clothing and a boost of self-esteem.",
+    "price": "$69.99"
   },
   {
     "id": 7,
-    "picture": "https://i.ibb.co/vmr4Vrm/Education.png",
+    "picture": "https://i.ibb.co/ByYGVnB/different-language-speech-bubble-hello-concept.jpg",
     "title": "Language Learning App",
     "category": "Education",
     "category_bg": "#FF444A33",
     "card_bg": "#FF444A26",
     "text_color": "#FF444A",
     "button_bg": "#FF444A",
-    "description": "Master a new language with the help of this innovative language learning app.",
-    "price": "$29.99",
-    "rectangleImg": "https://i.ibb.co/rdRqZ2F/Rectangle-4287-1.png"
+    "description": "Donating to a Language Learning App initiative enables people from diverse backgrounds to access valuable language education resources. Your contributions support the development and expansion of language learning apps, making them more accessible and affordable for individuals worldwide. By donating, you empower people to acquire new language skills, fostering cultural understanding, career opportunities, and personal growth. Your generosity helps bridge communication gaps and promotes global connectivity through language learning.",
+    "price": "$29.99"
   },
   {
     "id": 8,
-    "picture": "https://i.ibb.co/pKQXrvz/Health.png",
+    "picture": "https://i.ibb.co/SXq8v57/contemporary-application-runner-mobile-phone.jpg",
     "title": "Fitness Tracker",
     "category": "Health",
     "category_bg": "#0052FF33",
     "card_bg": "#0052FF26",
     "text_color": "#0052FF",
     "button_bg": "#0052FF",
-    "description": "Stay on top of your fitness goals with this advanced fitness tracker.",
-    "price": "$79.99",
-    "rectangleImg": "https://i.ibb.co/5M3SJ3D/Rectangle-4284.png"
+    "description": "Donating a fitness tracker is a thoughtful gesture that encourages an active and healthy lifestyle. These devices monitor physical activity, heart rate, and more, helping users achieve fitness goals. By contributing a fitness tracker, you empower individuals to take control of their health, track progress, and make informed choices. Your donation promotes well-being, motivating recipients to lead healthier lives through exercise and self-care.",
+    "price": "$79.99"
   },
 
   {
     "id": 9,
-    "picture": "https://i.ibb.co/pKQXrvz/Health.png",
+    "picture": "https://i.ibb.co/tPwYD09/close-up-photo-young-woman-body-red-jumpsuit-standing-with-colorful-yoga-mats-hands-park.jpg",
     "title": "Yoga Mat",
     "category": "Health",
     "category_bg": "#0052FF33",
     "card_bg": "#0052FF26",
     "text_color": "#0052FF",
     "button_bg": "#0052FF",
-    "description": "Experience comfort and stability during your yoga sessions with this mat.",
-    "price": "$29.99",
-    "rectangleImg": "https://i.ibb.co/5M3SJ3D/Rectangle-4284.png"
+    "description": "Donating a yoga mat is a compassionate act that promotes physical and mental well-being. Yoga mats provide a comfortable and clean surface for yoga and meditation practices. Your contribution enables individuals to access the benefits of yoga, including improved flexibility, strength, and relaxation. By donating a yoga mat, you support holistic health and self-care, helping recipients embark on a journey towards physical and mental balance and inner peace.",
+    "price": "$29.99"
   },
   {
     "id": 10,
-    "picture": "https://i.ibb.co/vmr4Vrm/Education.png",
+    "picture": "https://i.ibb.co/s33rLLt/front-view-kids-playing-memory-game.jpg",
     "title": "Educational Board Game",
     "category": "Education",
     "category_bg": "#FF444A33",
     "card_bg": "#FF444A26",
     "text_color": "#FF444A",
     "button_bg": "#FF444A",
-    "description": "Make learning fun with this engaging educational board game for kids.",
-    "price": "$34.99",
-    "rectangleImg": "https://i.ibb.co/rdRqZ2F/Rectangle-4287-1.png"
+    "description": "Donating an educational board game is a wonderful way to promote learning through play. These interactive games engage and educate players, fostering critical thinking, problem-solving, and teamwork skills. Your donation encourages intellectual growth and provides an enjoyable learning experience for children and adults alike. Educational board games make learning fun and accessible, bridging the gap between entertainment and education for a brighter future.",
+    "price": "$34.99"
   },
 
   {
     "id": 11,
-    "picture": "https://i.ibb.co/Q8PYQdR/Clothing.png",
+    "picture": "https://i.ibb.co/S7yh9R1/newborn-concept-with-couple-holding-shoes-hands.jpg",
     "title": "Kids' Sneakers",
     "category": "Clothing",
     "category_bg": "#79C23F33",
     "card_bg": "#79C23F26",
     "text_color": "#79C23F",
     "button_bg": "#79C23F",
-    "description": "Keep your kids active and stylish with these comfortable sneakers.",
-    "price": "$24.99",
-    "rectangleImg": "https://i.ibb.co/Mks7bn0/Rectangle-4287.png"
+    "description": "Donating kids' sneakers is an act of kindness that ensures children have comfortable and practical footwear. These donations support the well-being and development of young ones, providing them with the means to run, play, and explore their world. By contributing kids' sneakers, you promote their safety and physical activity, helping them grow confidently while easing the burden on families facing financial challenges. Your generosity makes a significant impact on children's lives.",
+    "price": "$24.99"
   },
 
   {
     "id": 12,
-    "picture": "https://i.ibb.co/ZzqsQFq/Food.png",
+    "picture": "https://i.ibb.co/9ZLZq3L/volunteers-collecting-food-donations-close-up.jpg",
     "title": "Healthy Snack Pack",
     "category": "Food",
     "category_bg": "#F8714733",
     "card_bg": "#F8714726",
     "text_color": "#F87147",
     "button_bg": "#F87147",
-    "description": "Enjoy guilt-free snacking with this assortment of healthy snacks.",
-    "price": "$19.99",
-    "rectangleImg": "https://i.ibb.co/XpM05V5/Rectangle-4287-2.png"
+    "description": "Donating a Healthy Snack Pack is a thoughtful way to support individuals in need while promoting nutritious eating habits. These packs contain a selection of wholesome snacks, ensuring access to better food choices. Your donation contributes to overall well-being by providing nourishing options and combating hunger. Healthy Snack Packs are a simple yet impactful way to make a positive difference in the lives of those facing food insecurity.",
+    "price": "$19.99"
   }
 ]
