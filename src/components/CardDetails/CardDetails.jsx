@@ -3,6 +3,7 @@ import { useParams } from "react-router-dom";
 import { dataContext } from "../Root/Root";
 import "./CardDetails.css";
 import { savedToLocalStorage } from "../../utility/localStorage";
+import Swal from "sweetalert2";
 const CardDetails = () => {
   const { id } = useParams();
   const { cardData } = useContext(dataContext);
@@ -22,6 +23,13 @@ const CardDetails = () => {
   const handleDonate = (id) => {
     console.log(id);
     savedToLocalStorage(id);
+    Swal.fire({
+      position: "center",
+      icon: "success",
+      title: "You have successfully donated",
+      showConfirmButton: false,
+      timer: 1500,
+    });
   };
   return (
     <div className="lg:max-w-7xl mx-auto mt-10 pb-20">
