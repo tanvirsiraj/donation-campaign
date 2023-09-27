@@ -13,7 +13,7 @@ const Home = () => {
   }, [cardData]);
 
   const handleSearch = (id) => {
-    console.log(id);
+    // console.log(id);
     const inputField = document.getElementById(id);
 
     const inputFieldValue = inputField.value;

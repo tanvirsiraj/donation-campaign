@@ -8,7 +8,7 @@ const CardDetails = () => {
   const { id } = useParams();
   const { cardData } = useContext(dataContext);
   const [selectedCard, setSelectedCard] = useState([]);
-  console.log(parseInt(id), cardData);
+  // console.log(parseInt(id), cardData);
 
   useEffect(() => {
     if (cardData.length > 0) {
@@ -21,7 +21,7 @@ const CardDetails = () => {
 
   //   console.log(selectedCard);
   const handleDonate = (id) => {
-    console.log(id);
+    // console.log(id);
     savedToLocalStorage(id);
     Swal.fire({
       position: "center",

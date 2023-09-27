@@ -7,7 +7,7 @@ const Statistics = () => {
   // console.log(donatedCardLength);
   const yourDonations = parseFloat(((donatedCardLength / 12) * 100).toFixed(1));
   const totalDonatinos = 100 - yourDonations;
-  console.log(yourDonations, totalDonatinos);
+  // console.log(yourDonations, totalDonatinos);
 
   const data = [
     { name: "Total Donation", value: totalDonatinos },

@@ -1,6 +1,6 @@
 import Card from "../Card/Card";
 const AllCards = ({ data, handleShowAll }) => {
-  console.log(data);
+  // console.log(data);
   return (
     <div>
       <div
