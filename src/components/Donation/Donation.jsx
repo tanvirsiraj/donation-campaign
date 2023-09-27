@@ -53,7 +53,7 @@ const Donation = () => {
         </div>
       ) : (
         <h2 className="flex justify-center mt-20 mb-32  md:mt-44 md:mb-96 md:text-4xl  font-semibold">
-          You do not donate any amount...
+          You have not donated any amount...
         </h2>
       )}
     </div>
