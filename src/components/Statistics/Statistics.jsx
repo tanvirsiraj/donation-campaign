@@ -1,4 +1,4 @@
-import { Cell, Legend, Pie, PieChart, ResponsiveContainer } from "recharts";
+import { Cell, Pie, PieChart, ResponsiveContainer } from "recharts";
 import { getStoredCard } from "../../utility/localStorage";
 
 const Statistics = () => {
@@ -43,7 +43,7 @@ const Statistics = () => {
   };
 
   return (
-    <div className="h-[100vh] lg:h-[82vh] ">
+    <div className="lg:max-w-7xl mx-auto  h-[100vh] lg:h-[82vh] ">
       <ResponsiveContainer width="100%" height="60%">
         <PieChart className="lg:max-w-7xl mx-auto md:text-lg md:font-bold">
           <Pie
