@@ -7,7 +7,7 @@ const CardDetails = () => {
   const { id } = useParams();
   const { cardData } = useContext(dataContext);
   const [selectedCard, setSelectedCard] = useState([]);
-  //   console.log(parseInt(id), cardData);
+  console.log(parseInt(id), cardData);
 
   useEffect(() => {
     if (cardData.length > 0) {
@@ -16,7 +16,7 @@ const CardDetails = () => {
       );
       setSelectedCard(selectedCardData);
     }
-  }, []);
+  }, [cardData]);
 
   //   console.log(selectedCard);
   const handleDonate = (id) => {
@@ -24,7 +24,7 @@ const CardDetails = () => {
     savedToLocalStorage(id);
   };
   return (
-    <div className="pb-20">
+    <div className="lg:max-w-7xl mx-auto mt-10 pb-20">
       <div className="relative">
         <img
           className=" h-[700px] w-full rounded-b-2xl"

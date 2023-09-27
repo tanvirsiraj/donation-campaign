@@ -7,11 +7,13 @@ import Home from "./components/Home/Home";
 import Donation from "./components/Donation/Donation";
 import Statistics from "./components/Statistics/Statistics";
 import CardDetails from "./components/CardDetails/CardDetails";
+import NotFound from "./components/NotFound/NotFound";
 
 const router = createBrowserRouter([
   {
     path: "/",
     element: <Root></Root>,
+    errorElement: <NotFound></NotFound>,
     children: [
       {
         path: "/",

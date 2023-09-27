@@ -58,7 +58,7 @@ const Header = () => {
         </div>
 
         <a className="normal-case  text-xl">
-          <img src="Logo.png"></img>
+          <img src="/Logo.png"></img>
         </a>
       </div>
       <div className="navbar-end hidden lg:flex">
